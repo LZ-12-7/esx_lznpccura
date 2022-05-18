@@ -7,6 +7,6 @@ https://streamable.com/l7kw8i
 
 [Resmon]
 
-Cerca: 0.06
+Sin uso: 0.00
 
-Lejos: 0.00
+Con uso: 0.06
